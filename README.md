@@ -1,7 +1,7 @@
 # Machine Learning: Disaster Recovery Simulation
 This project explores and applies machine learning concepts through a simulated search and rescue scenario. Python is used for the logic of a SAR bot inside of CoppeliaSim.
 
-***Note: the .ttt file can only be opened in CoppeliaSim and contains the enirety of project.***
+***Note: the .ttt file can only be opened in CoppeliaSim and contains the enirety of the project.***
 
 ## Background
 Real-time search-and-rescue robots are increasingly used to supplement the efforts of the first responders in areas affected by natural disasters. 
